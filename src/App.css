@@ -21,11 +21,21 @@ body{
     padding: 10px 0;
     background-color: white;
     border-bottom: 2px solid rgb(230,230, 230);
+}
 
+@font-face {
+    font-family: 'Numberlin';
+    src: url('Numberlin.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
 }
 
 .header__logo{
+    font-family: 'Numberlin';
     width: 50%;
+    color: #262626;
+    fill: #262626;
+    font-size: 20px;
 }
 
 .header__loginForm{

@@ -160,7 +160,7 @@ function Header(props){
 
     <div className="center">
         <div className='header__logo'>
-          <a href=''><img src="https://o.remove.bg/downloads/244b7ee5-e824-4da2-acea-00484657405c/Instagram__1_-removebg-preview.png"/></a>
+          <a href=''><h2>Instragam</h2></a>
         </div>
 
         {

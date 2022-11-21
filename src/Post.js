@@ -37,7 +37,7 @@ function Post(props){
             <img src={props.info.image}/>
             <p><b>{props.info.userName}</b>:{props.info.titulo}</p>
 
-            <div classname="coments">
+            <div className="coments">
               
             {
                 comentarios.map(function(val){
@@ -54,7 +54,7 @@ function Post(props){
               (props.user)?
             <form onSubmit={(e)=>comentar(props.id,e)}>
               <textarea id={"comentario-"+props.id}></textarea>
-              <input type="submit" value="comentar!"/>
+              <input type="submit" value="Comentar!"/>
             </form>
             :
             <div></div>
