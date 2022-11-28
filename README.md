@@ -11,3 +11,12 @@
 <div align="center">
   <a href="https://instragam-54880.web.app/">Follow this link to access the project</a>
 </div>
+
+<h2 align="center">Comment System</h2>
+<h4 align="center">If the user not logged in, is impossible to comment. This is useful because is necessary to create a account to use the site.</h4>
+<div align="center"><br/>
+   <h4>Logged Out</h4>
+   <img height="550px" width="400px" src="https://user-images.githubusercontent.com/117043744/204292625-b2cc758f-9dfc-456b-b2df-210e35dd0bbd.png"/>
+   <h4>Logged in</h4>
+   <img height="550px" width="400px" src="https://user-images.githubusercontent.com/117043744/204294411-3b817f02-6f46-4f08-889e-06d87946811b.png"/>
+</div>
