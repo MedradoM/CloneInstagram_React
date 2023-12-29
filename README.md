@@ -8,9 +8,7 @@
   <img align="center" height="30" width="40" src="https://simpleicons.org/icons/html5.svg">
   <img align="center" height="30" width="40" src="https://simpleicons.org/icons/nodedotjs.svg">
 </div>
-<div align="center">
-  <a href="https://instragam-54880.web.app/">Follow this link to access the project</a>
-</div>
+
 
 <h2 align="center">Comment System</h2>
 <h4 align="center">If the user not logged in, is impossible to comment. This is useful because is necessary to create a account to use the site.</h4>
